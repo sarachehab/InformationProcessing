@@ -1,2 +1,14 @@
-*.Identifier
-workdir/
+.qsys_edit/
+db/
+incremental_db/
+output_files/
+
+*.*.bak
+*.*.rpt
+*.htm
+*.done
+*.fit.*
+*.flow.*
+*.jdi
+*.map.*
+*.pin
